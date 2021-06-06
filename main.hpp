@@ -9,7 +9,7 @@ struct Node{
 
 typedef Node* pointer;
 
-pointer search(pointer& root, std::string kata) {
+pointer search(pointer& root, std::string kata){
   pointer hasil = nullptr;
   
   if (root != nullptr){
@@ -29,4 +29,12 @@ pointer search(pointer& root, std::string kata) {
 void print (pointer data){
     std::cout << "Kata yang dicari : " << data->kata << "\n";
     std::cout << "Penjelasan : " << "\n" << data->desc;
+}
+
+void insertBST(pointer & root, pointer newElement) {
+  if(root == nullptr){
+    root = newElement;
+  } else if(isHigherThanRoot(root, newElement) == true){
+    insertBST(root->right, newElement);
+  } else insertBST(root->left, newElement);
 }
