@@ -28,7 +28,7 @@ bool isHigherThanRoot (pointer root, pointer data){
   int i=0;
   bool hasil = 0;
   bool null = 0;
-  while (root->kata[i] != NULL && data->kata[i] != NULL){
+  while (root->kata[i] != 0 && data->kata[i] != 0){
     if (root->kata[i] > data->kata[i]){
       hasil = 0;
       break;
@@ -37,7 +37,7 @@ bool isHigherThanRoot (pointer root, pointer data){
       hasil = 1;
       break;
     }
-    else if (root->kata[i+1] == NULL || data->kata[i+1] == NULL){
+    else if (root->kata[i+1] == 0 || data->kata[i+1] == 0){
       null = 1;
       i++;
       continue;
@@ -49,7 +49,7 @@ bool isHigherThanRoot (pointer root, pointer data){
   }
 
   if (null){
-    if (root->kata[i] == NULL){
+    if (root->kata[i] == 0){
       hasil = 0;
     }
     else{
@@ -78,8 +78,8 @@ pointer search(pointer& root, std::string kata){
 }
 
 void print (pointer data){
-    std::cout << "Kata yang dicari : " << data->kata << "\n";
-    std::cout << "Penjelasan : " << "\n" << data->desc;
+    std::cout << "Kata yang dicari :\n" << data->kata << "\n\n";
+    std::cout << "Penjelasan :\n" << data->desc << "\n\n";
 }
 
 void insert(pointer & root, pointer newElement) {
@@ -95,15 +95,15 @@ void load_data(pointer& root){                                       //Fungsi un
   std::ifstream kata;
   std::ifstream desc;
   std::string temp;
-  bool first = 1;
+  // bool first = 1;
   kata.open("kata.txt");
   desc.open("desc.txt");
   while (!kata.eof()){
     newData = new Node;
     setNode(newData);
-    if (first == 1){
-        std::getline(kata, temp);
-    }
+    // if (first == 1){
+    //     std::getline(kata, temp);
+    // }
     std::getline(kata, temp);                       
     if (temp == ""){                                //Jika data.txt kosong, loop diberhentikan dan fungsi load_data() dihentikan/tidak load data apapun dari data.txt
         break;
@@ -140,38 +140,82 @@ void clrscr(){                                                   //Fungsi clear 
 int main(){
   int kodeProgram = 0;
   bool ulang = true;
+  pointer root = nullptr;
+  load_data(root);
   while(ulang){
     clrscr();
-    title("PROGRAM SISTEM ANTRIAN PEMESANAN TOKO TEKSTIL");
-    std::cout << "1. Tambah Pesanan\n2. Hapus Pesanan\n3. Search\n4. Daftar Pesanan\n5. Edit Pesanan\n6. Undo\n7. Save & Exit\n8. Exit without Saving\n";
+    title("PROGRAM KAMUS");
+    std::cout << "1. Laman Cari Kosakata\n2. Laman Tentang Program\n3. Tutup Program\n";
 
     // Tampilkan kode-kode untuk masuk ke salah satu programnya. 
     // 1 untuk program utama/pencarian kamus
     // 2 untuk laman tentang program
     // 3 untuk keluar program
-    std::cout << "Masukan Pilihan   :\n";
+    std::cout << "Masukkan Pilihan   :\n";
     std::cin >> kodeProgram;
     
-    // Jangan lupa sediakan opsi save dan exit dan exit without saving (mungkin bisa diletakkan di pilihan menu kode 7 dan 8)
-    // Exit wihout saving cuma untuk error handling ketika pengguna mau membatalkan semua perubahan
-    // Untuk variabel kode untuk pilih programnya disepakati aja kali ya, jadi "kodeProgram"
-    
     switch (kodeProgram){
-      case 1: {//Case Tambah Pesanan
+      case 1: {//Case Laman Cari Kata
         clrscr();
-        title("TAMBAH PESANAN");
+        title("CARI KOSAKATA");
+        std::string kata = "";
+        pointer temp = nullptr;
 
+        std::cout << "Masukkan kosakata yang ingin dicari :\n";
+        std::cin >> kata;
+
+        std::cout << "\n";
+        temp = search(root, kata);
+        if (temp == nullptr){
+          std::cout << "\nKata tidak ditemukan.\n\n";
+        }
+        else{
+          print(temp);
+        }
+
+        std::cout << "Tekan Enter untuk kembali ke menu utama\n";
+        std::cin.get();
+        std::cin.get();
         break;}
-      case 2: {//Case Hapus Pesanan
+      case 2: {//Case Laman Tentang
         clrscr();
-        title("HAPUS PESANAN");
+        title("TENTANG PROGRAM");
 
+        std::cout << "Program ini memiliki manfaat bagi masyarakat, yaitu berguna untuk pencarian kosakata dalam kamus dengan mudah dalam skala kecil.\n\n"
+                  << "Program ini dibuat berdasarkan ide yang diambil dari sebuah paper dengan judul 'Aplikasi Binary Search Tree Sebagai Metode Pencarian Dalam Kamus'. Sumber kosakata dan penjelasan setiap kosakata diambil dari web KBBI (https://www.kbbi.co.id)\n\n"
+                  << "Program ini dibuat oleh :\n"
+                  << "Della Fauziyyah Husna (NPM 140810200012)\n"
+                  << "Andaru Danurdara Wibisana (NPM 140810200020)\n\n";
+
+        std::cout << "Tekan Enter untuk kembali ke menu utama\n";
+        std::cin.get();
+        std::cin.get();
         break;}
-      case 3: {//case search (display value dari pesanan yang ingin dicari)
+      case 3: {//Case Tutup Program
+        clrscr();
+        title("TUTUP PROGRAM");
+        char konfirm;
 
+        std::cout << "Apakah anda yakin ingin menutup program? (y/n)\n";
+        while(1){
+          std::cin >> konfirm;
+
+          if (konfirm == 'y' || konfirm == 'Y'){
+            ulang = false;
+            break;
+          }
+          else if (konfirm == 'n' || konfirm == 'N'){
+            break;         
+          }
+          else{
+            std::cout << "Kode yang dimasukkan tidak valid. Masukkan kembali kode (y/n)\n";
+          }
+        }
         break;}
       default: {
-
+        std::cout << "Kode yang dimasukkan tidak valid. Masukkan kembali kode program.\n";
+        std::cin.get();
+        std::cin.get();
         break;}
     }
   }
