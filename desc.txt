@@ -10,7 +10,6 @@ asin : berasa garam; masin;
 au·dio : bersifat dapat didengar;
 aus : susut krn tergosok (kerap dipakai): pisaunya telah --; sepatunya telah --;
 awet /awét/ : lama berubah; lama bertahan;
-
 ba·dan : tubuh (jasad manusia keseluruhan); jasmani; raga; awak: akibat kecelakaan itu -- nya cacat;
 ba·ju : pakaian penutup badan bagian atas (banyak ragam dan namanya);
 be·ban : barang (yg berat) yg dibawa (dipikul, dijunjung, dsb); muatan (yg ditaruhkan di punggung kuda, keledai, dsb): mana boleh kuda ini diberi -- yg seberat itu;
@@ -23,3 +22,291 @@ bu·ku : lembar kertas yg berjilid, berisi tulisan atau kosong; kitab;
 bus : kendaraan bermotor angkutan umum yg besar, beroda empat atau lebih, yg dapat memuat penumpang banyak;
 bu·ta : tidak dapat melihat krn rusak matanya; tunanetra: Braille telah berhasil menciptakan huruf untuk anak-anak --;
 bu·tuh : sangat perlu menggunakan; memerlukan: negara kita masih - investasi modal asing;
+ca·cat : kekurangan yg menyebabkan nilai atau mutunya kurang baik atau kurang sempurna
+ca·kar : kaki dan kuku yg panjang (pd ayam, itik, burung)
+cam·pur : berkumpul (beraduk, berbaur, berkacau) menjadi satu
+ca·ping : tudung kepala yg dibuat dr anyaman bambu, bentuknya lancip ke atas dan melebar kelilingnya
+ce·gat : menantikan di jalan dsb yg akan dilalui
+ce·mas : tidak tenteram hati (krn khawatir, takut)
+cin·cang : mencencang (memotong) halus
+co·long : mencuri
+cong·kak : merasa dan bertindak dng memperlihatkan diri sangat mulia (pandai, kaya, dsb)
+cu·bit : yg dijepit dng ujung jari atau ujung telunjuk dng ibu jari
+cu·kai : pajak atau bea yg dikenakan pd barang impor dan barang konsumsi
+cu·ma : tidak ada yg lain (sendirian dl jenisnya)
+da·ha·ga : haus (berasa kering pd kerongkongan dan ingin minum)
+dak·wah : penyiaran
+dan·dang : periuk besar untuk mengukus nasi, biasanya dibuat dr tembaga atau aluminium
+de·bit : volume air yg mengalir dr suatu saluran melalui penampang lintang tertentu dl satuan waktu
+de·di·ka·si : pengorbanan tenaga, pikiran, dan waktu demi keberhasilan suatu usaha atau tujuan mulia
+de·mon·stra·si : pernyataan protes yg dikemukakan secara massal
+dik·te : yg diucapkan atau dibaca keras-keras supaya ditulis orang lain
+dis·ku·si : pertemuan ilmiah untuk bertukar pikiran mengenai suatu masalah
+do·ku·men·ta·si : pengumpulan, pemilihan, pengolahan, dan penyimpanan informasi dl bidang pengetahuan
+do·mi·no : permainan dng 28 kartu (kayu, tulang, dsb) yg bermata (bertitik besar), tiap kartu dibagi menjadi dua bidang, tiap bidang berisi 0—6 titik
+du·el : perkelahian antara dua orang untuk menyelesaikan persoalan (dng pedang atau pistol, di tempat dan pd waktu yg telah ditetapkan); perang tanding
+dur·ha·ka : ingkar thd perintah (Tuhan, orang tua, dsb)
+ebo·ni : kayu yg keras, berat, dan tahan lama, digunakan untuk membuat mebel dan barang ukiran, biasanya berwarna hitam
+edi·si : bentuk buku yg diterbitkan
+efek·tif : ada efeknya (akibatnya, pengaruhnya, kesannya)
+eko·no·mi : ilmu mengenai asas-asas produksi, distribusi, dan pemakaian barang-barang serta kekayaan (spt hal keuangan, perindustrian, dan perdagangan)
+ek·se·ku·si : pelaksanaan putusan hakim; pelaksanaan hukuman badan peradilan, khususnya hukuman mati
+ek·sis·ten·si : hal berada; keberadaan
+ek·spe·di·si : pengiriman surat, barang, dsb
+eks·tra : tambahan di luar yg resmi
+em·brio : bakal anak (dl kandungan) hasil pembuahan sel telur pd stadium permulaan yg kemudian menjadi janin, yg berumur antara satu minggu sampai delapan minggu (pd manusia)
+en·dap : sesuatu yg bercampur dng air atau cairan lainnya yg turun ke bawah dan tertimbun di dasar
+eng·gan : tidak mau; tidak sudi; tidak suka
+esen·si·al : perlu sekali; mendasar; hakiki
+fa·bel : cerita yg menggambarkan watak dan budi manusia yg pelakunya diperankan oleh binatang (berisi pendidikan moral dan budi pekerti)
+fak·tur : daftar barang kiriman yg dilengkapi keterangan nama, jumlah, dan harga yg harus dibayar
+far·ma·si : cara dan teknologi pembuatan obat serta cara penyimpanan, penyediaan, dan penyalurannya
+fe·de·ral : berpemerintahan sipil yg beberapa negara bagian membentuk kesatuan dan setiap negara bagian memiliki kebebasan dl mengurus persoalan di dl negerinya
+fe·no·me·na : hal-hal yg dapat disaksikan dng pancaindra dan dapat diterangkan serta dinilai secara ilmiah (spt fenomena alam)
+fi·sik : jasmani; badan
+fit·nah : perkataan bohong atau tanpa berdasarkan kebenaran yg disebarkan dng maksud menjelekkan orang (spt menodai nama baik, merugikan kehormatan orang)
+flek·si·bel : lentur; mudah dibengkokkan
+fo·ne·tik : bidang linguistik tt pengucapan (penghasilan) bunyi ujar
+fo·rum : lembaga atau badan; wadah
+fung·si·o·nal : berdasarkan jabatan
+fur·ni·tur : mebel
+ga·bung : ikat; berkas; menjadi satu (dng)
+ga·lak : buas dan suka melawan (menyerang, menggigit, menanduk, dsb tt binatang); ganas; garang
+gan·tung : sangkut; kait
+ge·ga·bah : terlampau berani sehingga mengakibatkan kurang hati-hati (tt sikap, tindakan, perbuatan)
+ge·gar : guncang; goyang; gentar
+ge·lom·bang : ombak besar yg bergulung-gulung (di laut)
+gi·gih : tetap teguh pd pendirian atau pikiran; keras hati; mengotot
+gi·tar : alat musik dng bahan dr kayu spt biola, berleher panjang, berdawai enam atau lebih, dimainkan dng memetik dawai itu dng jari
+gong·gong : membawa dng mulut; menggondol; menyalak
+go·reng : memasak kering-kering di wajan (kuali) dng minyak
+gu·dang : rumah atau bangsal tempat menyimpan barang- barang
+gum·pal : bongkah (tanah, tanah liat, dsb); kepal atau bagian yg keras; kental (tt darah, adonan, dsb)
+ha·bi·tat : tempat tinggal khas bagi seseorang atau kelom-pok masyarakat
+ha·ki·ki : benar; sebenarnya; sesungguhnya
+ha·pus : tidak terdapat atau tidak terlihat lagi; hilang
+hen·dak : mau; akan; bermaksud akan
+he·wan : binatang
+hid·ro·gen : gas tidak berwarna, tidak berbau, tidak ada rasanya, menyesakkan dng rumus H2, tetapi tidak bersifat racun; unsur dng nomor atom 1, berlambang H, dan bobot atom 1,0080
+hij·ri·ah : berhubungan dng hijrah; berkenaan dng tarikh Islam yg dimulai ketika Nabi Muhammad saw. berpindah ke Medinah
+hi·rup : mengisap
+ho·bi : kegemaran; kesenangan istimewa pd waktu senggang, bukan pekerjaan utama
+ho·mo·gen : terdiri atas jenis, macam, sifat, watak, dsb yg sama
+hu·jan : titik-titik air yg berjatuhan dr udara krn proses pendinginan
+hu·mor : sesuatu yg lucu
+iba·rat : perkataan atau cerita yg dipakai sbg perumpamaan (perbandingan, lambang, kiasan)
+ide·o·lo·gi : kumpulan konsep bersistem yg dijadikan asas pendapat (kejadian) yg memberikan arah dan tujuan untuk kelangsungan hidup
+ija·zah : surat tanda tamat belajar; sijil
+ikan : binatang bertulang belakang yg hidup dl air, berdarah dingin, umumnya bernapas dng insang, biasanya tubuhnya bersisik, bergerak dan menjaga keseimbangan badannya dng menggunakan sirip
+ik·lan : berita pesanan untuk mendorong, membujuk khalayak ramai agar tertarik pd barang dan jasa yg ditawarkan
+ikut : menyertai orang bepergian (berjalan, bekerja, dsb); turut; serta
+ile·gal : tidak legal; tidak menurut hukum; tidak sah
+ima·ji·na·si : daya pikir untuk membayangkan (dl angan-angan) atau menciptakan gambar (lukisan, karangan, dsb) kejadian berdasarkan kenyataan atau pengalaman seseorang
+im·ple·men·ta·si : pelaksanaan; penerapan
+in·di·ka·si : tanda-tanda yg menarik perhatian; petunjuk
+in·dus·tri : kegiatan memproses atau mengolah barang dng menggunakan sarana dan peralatan, msl mesin
+in·for·ma·si : penerangan
+ja·bat : memegang; melakukan pekerjaan (pangkat dsb); memegang jabatan (pekerjaan)
+jad·wal : pembagian waktu berdasarkan rencana pengaturan urutan kerja; daftar atau tabel kegiatan atau rencana kegiatan dng pembagian waktu pelaksanaan yg terperinci
+ja·lur : kolom yg lurus; garis lebar; setrip lebar; ruang di antara dua garis pd permukaan yg luas
+je·da : waktu berhenti (mengaso) sebentar; waktu beristirahat di antara dua kegiatan atau dua babak (spt dl olahraga dsb)
+je·lang : mengunjungi; menengok; menjenguk; menghadap; dialamatkan kpd; ditujukan kpd (pd alamat surat); menghadap; menyongsong; hampir;
+jem·ba·tan : jalan (dr bambu, kayu, beton, dsb) yg direntangkan di atas sungai (jurang, tepi pangkalan, dsb); titian besar
+jing·ga : warna kuning kemerah-merahan; oranye
+jip·lak : menggambar atau menulis garis-garis gambaran atau tulisan yg telah tersedia (dng menempelkan kertas kosong pd gambar atau tulisan yg akan ditiru)
+jo·doh : orang yg cocok menjadi suami atau istri; pasangan hidup; imbangan
+jom·po : tua sekali dan sudah lemah fisiknya; tua renta; uzur
+ju·al : memberikan sesuatu kpd orang lain untuk memperoleh uang pembayaran atau menerima uang
+ju·a·ra : orang (regu) yg mendapat kemenangan dl pertandingan yg terakhir
+ka·bar : laporan tt peristiwa yg biasanya belum lama terjadi; berita; warta
+ka·len·der : daftar hari dan bulan dl setahun; penanggalan; almanak; takwim
+ka·wan : orang yg sudah lama dikenal dan sering berhubungan dl hal tertentu (dl bermain, belajar, bekerja, dsb); teman; sahabat; sekutu
+ke·bal : tidak mempan senjata; tidak dapat terlukai oleh senjata
+ke·dap : kerap dan rapat sekali (tt tenunan, ayaman, dsb)
+ke·jar : berlari buru-memburu; saling (bergantian) mengejar
+khid·mat : hormat; takzim
+ki·kis : mengerik (menghilangkan, menghapuskan, dsb) dng benda tajam (spt pisau)
+ko·de : tanda (kata-kata, tulisan) yg disepakati untuk maksud tertentu (untuk menjamin kerahasiaan berita, pemerintah, dsb)
+ko·e·fi·si·en : bagian suku yg berupa bilangan atau konstan, biasanya dituliskan sebelum lambang peubah, spt angka 2 dalam 2 x atau dalam 2 (x + y)
+ku·ar·ter : zaman geologi terakhir (keempat), meliputi dua hingga tiga juta tahun terakhir dr sejarah bumi
+ku·is : ujian lisan atau tertulis yg singkat
+la·bu : buah berdaging yg bagian luar kulitnya keras menjangat, berasal dr bakal buah terbenam, berdaun buah tiga, tetapi kemudian hanya berongga satu serta berbiji banyak, spt terdapat pd suku timun-timunan
+la·ga : perkelahian (tt binatang)
+la·lai : kurang hati-hati; tidak mengindahkan (kewajiban, pekerjaan, dsb); lengah
+le·ga : lapang; luas; tidak sempit
+lem·ba·ga : asal mula (yg akan menjadi sesuatu); bakal (binatang, manusia, atau tumbuhan)
+len·ca·na : tanda yg berbentuk medali (bendera kecil, pita bersilang, dsb), dipasang di dada sbg tanda anggota suatu perkumpulan, panitia, dsb
+li·be·ral : bersifat bebas
+li·hat : menggunakan mata untuk memandang; (memperhatikan)
+lo·ka·si : letak
+lom·ba : adu kecepatan (berlari, berenang, dsb); adu keterampilan (ketangkasan, kekuatan, dsb)
+lu·ar : daerah, tempat, dsb yg tidak merupakan bagian dr sesuatu itu sendiri
+lu·nak : lembut; empuk
+ma·cet : tidak dapat berfungsi dng baik (tt rem, mesin, dsb); sendat; serat
+mag·net : setiap bahan yg dapat menarik logam besi
+ma·ka·lah : tulisan resmi tt suatu pokok yg dimaksudkan untuk dibacakan di muka umum dl suatu persidangan dan yg sering disusun untuk diterbitkan
+me·dia : alat
+me·lo·di : susunan rangkaian tiga nada atau lebih dl musik yg terdengar berurutan secara logis serta berirama dan mengungkapkan suatu gagasan
+men·te·ri : kepala suatu departemen (anggota kabinet), merupakan pembantu kepala negara dl melaksanakan urusan (pekerjaan) negara
+mim·pi : sesuatu yg terlihat atau dialami dl tidur
+mi·rip : hampir sama atau serupa (dng)
+mo·ne·ter : mengenai, berhubungan dng uang atau keuangan
+mo·ral : (ajaran tt) baik buruk yg diterima umum mengenai perbuatan, sikap, kewajiban, dsb; akhlak; budi pekerti; susila
+mu·a·ra : tempat berakhirnya aliran sungai di laut, danau, atau sungai lain; sungai yg dekat dng laut
+mu·lia : tinggi (tt kedudukan, pangkat, martabat), tertinggi, terhormat
+na·da : tinggi rendahnya bunyi (dl lagu, musik, dsb)
+na·ma : kata untuk menyebut atau memanggil orang (tempat, barang, binatang, dsb)
+na·nah : cairan berbau busuk yg keluar dr luka, kudis, bisul, dsb berwarna putih kehijauan
+nar·sis·me : hal (keadaan) mencintai diri sendiri secara berlebihan
+nef·ron : unit fungsional ginjal; bagian ginjal yg berekskresi
+ne·po·tis·me : perilaku yg memperlihatkan kesukaan yg berlebihan kpd kerabat dekat
+ni·kah : ikatan (akad) perkawinan yg dilakukan sesuai dng ketentuan hukum dan ajaran agama
+nir·wa·na : Hin keadaan dan ketenteraman sempurna bagi setiap wujud eksistensi krn berakhirnya kelahiran kembali ke dunia
+no·da : noktah (yg menyebabkan kotor);
+no·mi·na·si : pengusulan atau pengangkatan sbg calon
+non·blok : tidak bergabung dl satu blok tertentu (tt negara, partai politik, dsb)
+nye·ri : berasa sakit (spt ditusuk-tusuk jarum atau spt dijepit pd bagian tubuh)
+ob·jek : hal, perkara, atau orang yg menjadi pokok pembicaraan
+ob·li·ga·si : surat pinjaman dng bunga tertentu dr pemerintah yg dapat diperjualbelikan
+ojek : sepeda atau sepeda motor yg ditambangkan dng cara memboncengkan penumpang atau penyewanya
+olah·ra·ga : gerak badan untuk menguatkan dan menyehatkan tubuh (spt sepak bola, berenang, lempar lembing)
+om·bak : gerakan air laut yg turun-naik atau bergulung-gulung
+ope·ra·si : Dok bedah; bedel (untuk mengobati penyakit)
+op·na·me n Dok perawatan dng menginap di rumah sakit
+or·do : perserikatan keagamaan yg diakui oleh Paus dan yg anggotanya hidup sesuai dng aturan dan hukum gereja
+or·to·pe·di : ilmu tt penyembuhan tulang, persendian, dsb yg tidak lurus atau salah bentuk (tulang punggung, kaki dan tangan khusus pd anak-anak)
+otot : jaringan kenyal dl tubuh manusia dan hewan yg berfungsi menggerakkan organ tubuh
+oven : tempat pembakaran (pemanggangan) kue atau roti
+over·do·sis : ukuran (obat dsb) yg berlebihan
+pab·rik : bangunan dng perlengkapan mesin tempat membuat atau memproduksi barang tertentu dl jumlah besar untuk diperdagangkan
+pa·du·rak·sa : bangunan berbentuk gapura yg mempunyai atap
+pa·jak : pungutan wajib, biasanya berupa uang yg harus dibayar oleh penduduk sbg sumbangan wajib kpd negara atau pemerintah sehubungan dng pendapatan, pemilikan, harga beli barang
+pa·kan : benang yg dimasukkan melintang pd benang lungsin (ketika menenun kain)
+pa·kuh : burung yg paruhnya bercula, berwarna kekuning-kuningan
+pa·ron : landasan tempat menempa besi, biasanya juga dibuat dr besi
+pa·tah : putus tt barang yg keras atau kaku (biasanya tidak sampai bercerai atau lepas sama sekali)
+pa·to·lo·gi : ilmu tt penyakit
+pat·ro·li : perondaan (oleh polisi, tentara, dsb)
+pe·go : tidak dapat mendengar dan tidak dapat berbicara
+pe·lah : kurang sempurna mengucapkan kata-kata terutama bunyi
+pe·ri·ang : waktu yg baik untuk melakukan sesuatu
+qa.da : peraturan, hukum, ketentuan yang berasal dari Allah
+qa.nun : undang-undang, peraturan, hukum, kaidah
+qa·ri : pembaca Alquran (laki-laki)
+qa·ri·ah : pembaca Alquran (perempuan)
+qa·sar : pemendekan rakaat salat wajib dr empat rakaat menjadi dua rakaat sbg keringanan (rukhsah) bagi orang musafir
+qi·a·mu·la·il : salat di tengah malam secara teratur (spt salat tahajud, tarawih, witir)
+qi·ra·ah : hal-hal yg berhubungan dng cara pembacaan Alquran; pembacaan ayat-ayat Alquran
+qua.sar : benda langit yang memancarkan gelombang radio
+qud.rah : berkuasa, sifat yang wajib bagi Allah
+qu.od.li.bet : Pertunjukan musik dengan gubahan dari lagu-lagu yang familiar
+qur.ah : pengundian pemondokan haji di Mekkah
+qur·an : Alquran
+ra·bo·ta·se : teknik menggaruk permukaan lapisan tanah yg dilakukan dng sangat hati-hati secara horizontal krn pd lapisan itu ditemukan tanda-tanda adanya fosil dan artefak
+ra·den : gelar putra dan putri raja
+ran·cu : tidak teratur, campur aduk, kacau (tt berpikir,bahasa)
+ra·di·ku·la : akar yg pertama-tama keluar dr embrio
+ra·di·o·me·ter : alat untuk menandai dan mengukur intensitas energi radiasi
+ran·jang : tempat tidur, biasanya terbuat dr bes
+ra·gu : keadaan tidak tetap hati (dl mengambil keputusan, menentukan pilihan, dsb)
+ra·him : kantong selaput dl perut, tempat janin (bayi)
+ra·jin : suka bekerja (belajar dsb)
+rang·ga : tanduk tajam dan bercabang-cabang (spt tanduk rusa)
+re·kla·me : pemberitahuan kpd umum tt barang dagangan (dng kata-kata yg menarik, gambar) supaya laku
+re·lo·ka·si : pemindahan tempat
+sa·fa·ri : perjalanan atau pertualangan jarak jauh dl suatu kegiatan ekspedisi (penyelidikan, penelitian, wisata, dsb)
+sak·ral : suci, keramat
+san·dar : sangga, tumpu
+sa·lep : obat luar yg terbuat dr campuran obat dng zat yg berkonsistensi, spt mentega, untuk dioleskan pd kulit (untuk kudis, luka, borok, dsb)
+sang·gup : bersedia, mau
+san.tai : keadaan bebas dan senggang
+sa·raf : perubahan kata-kata
+se·la·don : keramik Cina yg berglasir dng warna hijau
+se·lem·pa·da : semut besar berwarna merah atau hitam, gigitannya gatal sekali
+se·le·no·gra·fi : pemetaan dan penentuan topografi permukaan bulan
+se·li·lit : sisa makanan (daging dsb) yg menyelip di sela-sela gigi
+sem·ri·ngah : berseri-seri, segar
+tam·bun : gemuk (tt manusia dan binatang)
+ta·meng : perisai
+tan·du : usungan berupa kursi atau rumah-rumahan kecil, terbuat dr terpal dsb, untuk tempat duduk dsb, disangga atau digantungkan pd pikulan
+tan·jung : tanah (ujung) atau pegunungan yg menganjur ke laut (ke danau)
+ta·sa·ruf : pengembalian, penyerahan
+te·ga : tidak menaruh belas kasihan
+tek·no·kra·tik : menyangkut pengelolaan organisasi dan manajemen sumber daya pd negara industri oleh kelompok teknokrat
+te·le·skop : teropong besar untuk melihat barang yg jauh (bintang)
+te.man : kawan, sahabat
+te·mu : sua, jumpa
+to·koh : rupa (wujud dan keadaan)
+tra·ge·di : sandiwara sedih (pelaku utamanya menderita kesengsaraan lahir dan batin yg luar biasa atau sampai meninggal)
+uban : rambut yg sudah putih atau mulai memutih
+ubin : batu campuran pasir, semen, dsb yg dipakai untuk lantai (biasanya berbentuk segi empat)
+ulur : melepaskan (tali dsb) supaya memanjang
+ul·tra·so·no·gra·fi : teknik diagnostik untuk pengujian struktur badan bagian dl yg melibatkan formasi bayangan dua dimensi dng gelombang ultrasonik
+um·pat : perkataan yg keji (kotor dsb) yg diucapkan krn marah (jengkel, kecewa, dsb)
+umum : mengenai seluruhnya atau semuanya; secara menyeluruh, tidak menyangkut yg khusus (tertentu) saja
+ungam : mengigau (ketika tidur)
+ung·kai : menguraikan simpulan (tali, ikatan, dsb)
+ur·ban : berkenaan dng kota
+ur·gen·si : keharusan yg mendesak
+uro·lo·gi : ilmu tt penyakit saluran kemih
+usul : asal, asal mula, dasar
+vak·sin : Dok bibit penyakit (msl cacar) yg sudah dilemahkan, digunakan untuk vaksinasi
+vam·pir : kelelawar raksasa yg mengisap darah
+va·ndal·is·me : perbuatan merusak dan menghancurkan hasil karya seni dan barang berharga lainnya (keindahan alam dsb)
+vas·ku·lar : mengenai pembuluh darah
+ve·ge·ta·si : kehidupan (dunia) tumbuh-tumbuhan atau (dunia) tanam-tanaman
+ve·ri·fi·ka·si : pemeriksaan tt kebenaran laporan, pernyataan, perhitungan uang, dsb
+ver·mi·li·un : mineral merah terang untuk bahan dasar cat merah terang
+ver·set : bantahan, banding
+vo·lu·me : isi atau besarnya benda dl ruang
+vul·ka·ni·sa·si : proses perbaikan sifat karet, terutama kekuatan dan kekenyalannya serta pengurangan sifat lekat dan bau dng cara memanaskan karet dng belerang atau senyawa belerang dng zat lain
+vul·ka·vit : bahan keras hasil olahan karet dng belerang
+vu·ring : kain pelapis baju sebelah dalam
+wa·let : burung layang-layang
+wa·na·wi·sa·ta : wisata yg tujuan atau sasarannya adalah hutan
+wa·ra·la·ba : kerja sama dl bidang usaha dng bagi hasil sesuai dng kesepakatan
+wa·ra·sah : ahli waris
+wa·ris : orang yg berhak menerima harta pusaka dr orang yg telah meninggal
+wa·ru·na : dewa laut
+wa·sak : satuan ukuran berat 180 kati, biasanya dibebankan pd unta
+wid·ya·wi·sa·ta : perjalanan ke luar (daerah, kampus, dsb) dl rangka kunjungan studi (biasanya berombongan)
+wi·ra·bank : penjaga keamanan pd bank
+wi·ra·kar·ya : jambore
+wi·su·da : peresmian atau pelantikan yg dilakukan dng upacara khidmat
+wu·lan : bulan
+xan·tat : Kim garam (biasanya natrium atau kalium) dr asam xantat yg digunakan sbg pengumpul dl metode pengapungan mineral
+xan·to·fil : pigmen kuning pd daun yg tampak setelah warna hijaunya
+xe·no·fi·li : orang yg tertarik kpd hal-hal yg berasal dr luar negeri (gaya, tata cara, dsb)
+xe·no·fo·bia : perasaan benci (takut, waswas) thd orang asing atau sesuatu yg belum dikenal
+xe·no·graf : ahli dl membaca tulisan (naskah) bahasa asing
+xe·no·lit : potongan batuan di dl batuan jenis lain
+xe·non : gas mulia, tidak berbau dan tidak berwarna, terdapat dl jumlah kecil di udara, biasa digunakan dl tabung lampu khusus
+xe·ro·fit : tanaman yg dapat hidup atau tumbuh di alam yg kering (gurun pasir dsb)
+xe·ro·gra·fi : penggandaan bahan cetakan dr film atau kertas dng menggunakan sinar listrik
+xe·ro·sis : kekeringan yg tidak normal pd kulit
+xi·lo·fon : alat musik pukul yg terdiri atas bilahan kayu yg panjangnya bertahap, menghasilkan bunyi yg berbeda jika dipukul dng alat pukul kecil dr kayu
+xi·lo·lo·gi : ilmu mengenai struktur kayu
+ya·kin : percaya (tahu, mengerti) sungguh-sungguh; (merasa) pasti (tentu, tidak salah lagi)
+ya·ki·to·ri : masakan Jepang yg terbuat dr daging ayam yg ditusuk dan dipanggang, biasanya tidak bertulang dan dihidangkan dng saus kacang kedelai
+yan·tra : alat untuk melakukan konsentrasi selama bersemadi (dl aliran Mantrayana), berbentuk lukisan yg menggambarkan bentuk geometris spt segitiga
+ya·san : (tanah) milik perseorangan (dl hukum adat)
+ya·tim : tidak beribu atau tidak berayah lagi (krn ditinggal mati)
+ya·ya·san : badan hukum yg tidak mempunyai anggota, dikelola oleh sebuah pengurus dan didirikan untuk tujuan sosial (mengusahakan layanan dan bantuan spt sekolah, rumah sakit)
+yo·ga : sistem filsafat Hindu yg bertujuan mengheningkan pikiran, bertafakur, dan menguasai diri
+yolk : zat hara yg tersimpan di dl telur ikan, baik ikan air tawar maupun ikan air laut
+yo·song : ginseng
+yu·bi·le·um : perayaan untuk memperingati ulang tahun suatu peristiwa pd bilangan tahun tertentu (msl ke-25, ke-50) yg dirayakan secara khusus
+yu·ra : ilmu hukum
+yus·ti·si : kehakiman
+za·im : pemimpin
+za·ke·lek : lugas
+za·man : jangka waktu yg panjang atau pendek yg menandai sesuatu
+za·rah : butir (materi) yg halus sekal
+za·wal : sebagian busur lingkaran jam dihitung dr benda angkasa sampai khatulistiwa
+ze·ni : tentara yg mengurus persenjataan dan perlengkapan, spt membuat jembatan
+zi·go·morf : bentuk simetris dua pihak
+zi·mo·sis : penyakit menular yg disebabkan oleh jamur
+zi·na : perbuatan bersanggama antara laki-laki dan perempuan yg tidak terikat oleh hubungan pernikahan (perkawinan)
+zi·on·is·me : gerakan (politik dsb) bangsa Yahudi yg ingin mendirikan negara sendiri yg merdeka dan berdaulat di Palestina
+zo·na·si : pembagian atau pemecahan suatu areal menjadi beberapa bagian, sesuai dng fungsi dan tujuan pengelolaan
+zu·a·ma : pemimpin (organisasi, pemerintahan, dsb)
